@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "plugins": [
+    {
+      "name": "TailwindCSS",
+      "description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
+      "url": "https://tailwindcss.com/docs"
+    },
+    {
+      "name": "CSS / styled-jsx",
+      "description": "Next.js comes with built-in support for CSS and styled-jsx. Styled-jsx is full, scoped and component-friendly CSS support for JSX (rendered on the server or the client).",
+      "url": "https://github.com/vercel/styled-jsx"
+    },
+    {
+      "name": "Apollo GraphQL",
+      "description": "Apollo Client is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all while automatically updating your UI.",
+      "url": "https://www.apollographql.com/docs/react/"
+    }
+  ]
+}
